@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(63, 63, 189);
+}
+.container1{
+    display: flex;
+    margin-top: 10px;
+}
+.leftside{
+    width: 30%;
+    padding-right: 30px;
+    padding-left: 15px;
+}
+.square1{
+    padding-top: 0px;
+    background-color: rgb(28, 11, 179);
+}
+.square2{
+
+    background-color: rgb(28, 11, 179);
+}
+.rightside{
+    width: 70%;
+}
+p{
+    font-size: 22px;
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    color: white;
+}
